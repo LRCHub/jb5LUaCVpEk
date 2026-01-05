@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Strategy",
+  "base_artist": "TWICE",
+  "createdAt": "2026-01-05T18:00:19.678998Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strategy",
+      "artist": "Gazebo",
+      "has_synced": false,
+      "path": "select/01_Strategy_Gazebo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strategy",
+      "artist": "D.R.I.",
+      "has_synced": false,
+      "path": "select/02_Strategy_D.R.I..txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock & Roll Strategy",
+      "artist": "38 Special",
+      "has_synced": true,
+      "path": "select/03_Rock_&_Roll_Strategy_38_Special.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "01 Rock & Roll Strategy",
+      "artist": "38 Special",
+      "has_synced": true,
+      "path": "select/04_01_Rock_&_Roll_Strategy_38_Special.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock & Roll Strategy",
+      "artist": "38 Special - Anthology (2001) [FLAC]",
+      "has_synced": true,
+      "path": "select/05_Rock_&_Roll_Strategy_38_Special_-_Anthology_(2001)_[FLAC].lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock and Roll Strategy",
+      "artist": "38 Special",
+      "has_synced": false,
+      "path": "select/06_Rock_and_Roll_Strategy_38_Special.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Strategy",
+      "artist": "Sean Paul",
+      "has_synced": false,
+      "path": "select/07_Strategy_Sean_Paul.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock & Roll Strategy",
+      "artist": "38 Special",
+      "has_synced": true,
+      "path": "select/08_Rock_&_Roll_Strategy_38_Special.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock & Roll Strategy",
+      "artist": "Thirty Eight Special",
+      "has_synced": false,
+      "path": "select/09_Rock_&_Roll_Strategy_Thirty_Eight_Special.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rawnald Gregory Erickson The Second - Strategy Remix",
+      "artist": "STRFKR",
+      "has_synced": true,
+      "path": "select/10_Rawnald_Gregory_Erickson_The_Second_-_Strategy_Remix_STRFKR.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Exit Strategy of a Wrecking Ball",
+      "artist": "Diablo Swing Orchestra",
+      "has_synced": true,
+      "path": "select/11_Exit_Strategy_of_a_Wrecking_Ball_Diablo_Swing_Orchestra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Strategy",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Strategy_TWICE.txt"
+    }
+  ]
+}
